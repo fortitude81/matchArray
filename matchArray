@@ -1,0 +1,15 @@
+//Accept two arguments: an object and an array of elements
+// Return `true` when all of the elements in the array are keys in the object. Otherwise return false
+
+var object = {
+	key:
+	key:
+	key:
+};
+
+var array = ["element", "element", "element"];
+
+function matchArray (){
+	
+}
+
