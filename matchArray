@@ -9,7 +9,7 @@ var object = {
 
 var array = ["element", "element", "element"];
 
-function matchArray (){
+function matchArray (object, array){
 	
 }
 
